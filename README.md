@@ -1,3 +1,4 @@
+[Screencast from 2025-03-22 21-30-27.webm](https://github.com/user-attachments/assets/59170154-56d1-4dfe-8a4e-44e02a32707c)
 # Clicky Grid
 
 An interactive color grid experience that transforms your clicks into a visual sequence.
